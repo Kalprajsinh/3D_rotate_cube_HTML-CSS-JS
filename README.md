@@ -13,5 +13,10 @@ https://github.com/Kalprajsinh/3D_rotate_cube_HTML-CSS-JS/assets/96036005/7d493d
 <br>
 
 
-https://github.com/Kalprajsinh/3D_rotate_cube_HTML-CSS-JS/assets/96036005/cc8f9483-f6c5-4a6a-85d7-a9773e289824
+
+https://github.com/Kalprajsinh/3D_rotate_cube_HTML-CSS-JS/assets/96036005/b24d2b75-d66b-40d1-9964-fe0c81e2cd25
+
+
+
+
 
